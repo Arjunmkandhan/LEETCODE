@@ -6,15 +6,9 @@ All my Leetcode Solutions =>
 
 ## 💻 Language Used
 - C++
-
-## 🎯 Purpose
-
-- Practice Data Structures and Algorithms  
-- Improve problem-solving skills  
-- Prepare for coding interviews  
-- Maintain consistency in coding practice  
-
-## 📝 File Naming Format
+# Feel free to checkout my solutions 
+## 📝 File Naming Format  
+question number . question .cpp 
 
 ## 🚀 How to Run (C++)
 
